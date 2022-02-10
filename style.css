@@ -1,0 +1,52 @@
+.error  {
+    color: rgba(0, 0, 0, 0.37);
+}
+.success {
+    color: green;
+}
+
+#test   {
+    color: maroon;
+}
+.orange {
+    background-color: orange;
+    text-align: right;
+    line-height: 2;
+    letter-spacing: 4px;
+    word-spacing: 20px;
+}
+.yellow {
+    background-color: yellow;
+}
+.font-styles {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.box-model {
+    border-top: 3px solid rgb(0, 47, 255);
+    border-bottom: 2px solid rgb(128, 32, 32);
+    border-right-color: 1px sienna;
+    height: 50px;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+}
+
+
+
+
+
+
+
+
+
